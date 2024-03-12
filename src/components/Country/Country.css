@@ -1,0 +1,8 @@
+.country {
+  margin: 15px;
+  padding: 20px;
+  border: 2px solid blueviolet;
+  border-radius: 20px;
+  background-color: rgb(9, 201, 201);
+  color: black;
+}
