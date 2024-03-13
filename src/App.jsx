@@ -5,11 +5,13 @@ function App() {
   return (
     <>
       <h1>Vite + React</h1>
-      <Countries></Countries>
+      <div style={{ border: "2px solid pink" }}>
+        <Countries></Countries>
+      </div>
     </>
   );
 }
 
 export default App;
 
-import React from 'react';
+import React from "react";
