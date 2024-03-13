@@ -1,8 +1,12 @@
 .country {
   margin: 15px;
-  padding: 20px;
+  padding: 5px;
   border: 2px solid blueviolet;
   border-radius: 20px;
   background-color: rgb(9, 201, 201);
   color: black;
+}
+.visited {
+  background-color: rgb(135, 222, 173);
+  color: crimson;
 }
